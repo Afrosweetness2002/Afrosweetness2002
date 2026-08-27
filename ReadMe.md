@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a data Engineer at Merkle. <br>I love coding and helping people improve their life's with technology. <br><br>Currently working on a project creating bots with telegram API, as well as a potential <br>web site for one of the local community Quran classes. <br><br>I Enjoy learning languages as I am multi lingual and doing coding challenges. 
+I am a data Engineer. <br>I love coding and helping people improve their life's with technology. <br><br>Currently working on a project creating bots with telegram API, as well as a potential <br>web site for one of the local community Quran classes. <br><br>I Enjoy learning languages as I am multi lingual and doing coding challenges. 
 
 
 ## 🌐 Socials:
